@@ -4,7 +4,7 @@
 
 ### Now
 
-- ✨ Last personal project: <a href="https://reactfruits.vercel.app/" target="_blank">React Fruits</a> (Fruit delivery service on react)
+- ✨ Last personal project: <a href="https://reactprotein.vercel.app/" target="_blank">React Protein</a> (Protein shop on react)
 - ⚙️ Last working project: <a href="https://lejournalintime.com/" target="_blank">Le Journal Intime</a> (Online store of women's underwear)
 - 🕹️ Last hobby project: <a href="https://tom-ahawk.itch.io/forbudlys" target="_blank">Forbudlys</a> (Winner in "Best solo game" on SibGameJam 2022)
 
