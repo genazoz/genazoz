@@ -5,8 +5,8 @@
 ### Now
 
 - ✨ Last personal project: <a href="https://reactprotein.vercel.app/" target="_blank">React Protein</a> (Protein shop on react)
-- ⚙️ Last working project: <a href="https://blind-printing.vercel.app/" target="_blank">Blind Printing</a> (Touch-typing tutor)
-- 🕹️ Last hobby project: <a href="https://tddomovoy.ru/" target="_blank">Domovoy</a> (Online shop)
+- ⚙️ Last working project: <a href="https://tddomovoy.ru/" target="_blank">Domovoy</a> (Online shop) 
+- 🕹️ Last hobby project: <a href="https://blind-printing.vercel.app/" target="_blank">Blind Printing</a> (Touch-typing tutor)
 
 ### About me
 
