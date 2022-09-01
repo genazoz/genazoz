@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there 👋
+I'm a Frontend Developer working in Saint P., Russia.
+Now
+✨ Last personal project: React Fruits (Fruit delivery service on react)
+⚙️ Last working project: Le Journal Intime (Online store of women's underwear)
+🕹️ Last hobby project: Forbudlys (Winner in "Best solo game" on SibGameJam 2022)
+About me
+🏢 I'm currently working at its.agency
+🌱 Learning all about React
+🔍 Looking for a job as a React developer
+Reach me
+Telegram Linkedin
 
-<!--
-**genazoz/genazoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies
+React Redux TypeScript Styled Components Vue.js Nuxtjs Strapi WebGL Pug SASS Webpack Vercel Yarn Apollo-GraphQL Visual Studio Code
