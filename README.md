@@ -10,7 +10,7 @@
 
 - 🔍 Looking for a job as a React, Next developer
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://genazoz.ru)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](http://www.genazoz.ru/)**
 
 - 📫 How to reach me **genazozulua49@gmail.com https://t.me/genazoz**
 
