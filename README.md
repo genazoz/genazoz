@@ -4,8 +4,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🏢 I'm currently working at Afonya
-
 - 🌱 Learning all about React, Next
 
 - 🔍 Looking for a job as a React, Next developer
